@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto academico implementa um sistema de gestão empresarial. Ele oferece funcionalidades para cadastro, gestão de funcionários, departamentos, projetos, reuniões, cálculo de holerites, agendamento de férias e licenças.
+Este projeto academico implementa um sistema de gestão empresarial via terminal. Ele oferece funcionalidades para cadastro, gestão de funcionários, departamentos, projetos, reuniões, cálculo de holerites, agendamento de férias e licenças.
 
 ## Funcionalidades
 
