@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto implementa um sistema de gestão empresarial utilizando conceitos avançados de Programação Orientada a Objetos (POO). Ele oferece funcionalidades para cadastro, gestão de funcionários, departamentos, projetos, reuniões, cálculo de holerites, agendamento de férias e licenças.
+Este projeto academico implementa um sistema de gestão empresarial. Ele oferece funcionalidades para cadastro, gestão de funcionários, departamentos, projetos, reuniões, cálculo de holerites, agendamento de férias e licenças.
 
 ## Funcionalidades
 
